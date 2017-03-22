@@ -1,0 +1,5 @@
+Hello everyone,
+
+This is my first experiment to study the basics of git.
+
+Regards,
